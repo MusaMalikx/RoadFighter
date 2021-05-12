@@ -17,7 +17,7 @@ A Replica to Classic Arcade Game developed by Konami for NES
 ### LOSER SCREEN
 ![Image of Loser](https://github.com/MusaMalikx/RoadFighter/blob/master/Loser.gif?raw=true)
 
-##INSTRUCTIONS
+## INSTRUCTIONS
 
 Use Nasm and DoxBox to run the game code
 1. nasm Road_Fighter.asm -o Road_Fighter.com
